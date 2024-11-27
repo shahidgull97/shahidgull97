@@ -6,13 +6,13 @@ FullStack Web Developer
 -----------------------
 
 Full-Stack MERN Web Developer skilled in crafting dynamic and responsive web applications. With expertise in MongoDB, Express, React, and Node.js, I specialize in building scalable solutions, seamless user interfaces, and robust backends. Always eager to learn and adapt, I thrive on transforming ideas into impactful digital experiences
-<p margin="10px">
+<li>
 * 🌍  I'm based in India
 * ✉️  You can contact me at [parreyshahid2000@gmail.com](mailto:parreyshahid2000@gmail.com)
 * 🧠  I'm learning System Design and DSA
 * 🤝  I'm open to collaborating on Innovative Projects
 * ⚡  Let's Make something exciting
-
+</li>
 ### Skills
 
 
